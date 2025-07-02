@@ -18,7 +18,7 @@ Fitness coaching app using AWS AI services. React-based, includes goal tracking 
 | **Black Friday Sales Analysis**
 Power BI dashboard and KNIME ETL pipeline uncovering customer purchase behavior.| ETL, Power BI Dashboard | [Report Findings](https://drive.google.com/file/d/1bSbrI623K2TF6BXTlzvWAf8uL3s4C3h4/view?usp=sharing) |
 | **Business Expansion Strategy** 
-Strategy proposal + CXO pitch for a fitness company (job interview assignment).| Strategic Planning, CX Pitch | [Proposal](...), [Slides](...) |
+Strategy proposal + CXO pitch for a fitness company (job interview assignment).| Strategic Planning, CX Pitch | [Proposal](https://drive.google.com/file/d/1cVDq7HB787xDzGQiFNfaKU57Md_geobS/view?usp=sharing), [Sales Pitch](https://drive.google.com/file/d/19BVHrP63pajKCGN30qxPDzvC_p-wb09Q/view?usp=sharing) |
 | **SereneBot (Chatbot)**
 DialogFlow-based chatbot to automate appointment booking & follow-up for wellness centres. | DialogFlow, Firebase, CX Automation | [Chatbot](https://t.me/sereneAes_bot), [Presentation](https://drive.google.com/file/d/1Z1VEFT6Kgz5XX7O3TDeOqwmzUft1W5Vq/view?usp=sharing) |
 | **Dialect Helper** 
