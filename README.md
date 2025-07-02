@@ -10,7 +10,7 @@ Welcome! This portfolio summarizes my hands-on projects across applied artificia
 | Project | Focus Area | Links |
 |--------|------------|-------|
 | **HDB Resale Price Prediction**
-Machine learning model to estimate flat resale prices based on location, amenities, and property type.  | ML, Streamlit App, Data Cleaning | [WebApp](https://araii-mldv-streamlit-app-f2cojy.streamlit.app/), [Report](https://drive.google.com/file/d/1hpu13RqKbFe2ugWgvYd8tkUSJBzrJPDS/view?usp=sharing), [Code](https://github.com/araii/MLDV_streamlit) |
+Machine learning model to estimate flat resale prices based on location, amenities, and property type.  | ML, Streamlit App, Data Cleaning | [WebApp](https://araii-mldv-streamlit-app-f2cojy.streamlit.app/), [Report](https://drive.google.com/file/d/1hpu13RqKbFe2ugWgvYd8tkUSJBzrJPDS/view?usp=sharing) |
 | **Consumer Complaint Analysis (CFPB)** 
 Tableau dashboard built using over 500,000 consumer complaints. Focused on policy insight and storytelling. | Tableau, ETL workflow using Excel, Storytelling framework | [Dashboard](https://public.tableau.com/app/profile/lanju.arai/viz/CAA1C06_AssgPart2_LANJUARAI_tableau/MAINSTORY) |
 | **ClubFitt Buddy** 
