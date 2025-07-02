@@ -38,7 +38,7 @@ Diploma (4.0 GPA) in Applied Artificial Intelligence from Temasek Polytechnic (P
 - **Languages**: Python, Swift, JavaScript, HTML/CSS
 - **AI/ML**: Scikit-learn, Pandas, Streamlit, DialogFlow, Hugging Face, AWS AI
 - **Data/BI**: Tableau, Power BI, KNIME
-- **Product Tools**: Figma, Notion, Trello
+- **Product Tools**: Excel, Powerpoint, Figma, Trello,
 - **Frameworks**: React, Firebase, Streamlit, Xcode
 
 ---
